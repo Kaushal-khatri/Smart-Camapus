@@ -1,6 +1,8 @@
 # Smart Campus Sensor & Room Management API
 ### 5COSC022W Client-Server Architectures — Coursework 2025/26
 
+**Author:** [Kaushal-khatri](https://github.com/Kaushal-khatri)
+
 A RESTful API built with **JAX-RS (Jersey 2.39)** and an embedded **Jetty** server that manages university campus rooms and IoT sensors.
 
 ---
